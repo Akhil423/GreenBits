@@ -27,6 +27,8 @@ int main(){
     cout<<"it's having duplicates";
     else
     cout<<"has unique characters";
+    
+    //comment
 
     return 0;
 
